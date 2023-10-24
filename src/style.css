@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+.bg_light_green {
+    color: #DAFF01;
+}
+
+.bg_violet {
+    background-color: #9353FF !important;
+}
+
+@media(min-width: 768px) {
+    
+    .div-novidades {
+        width: 696px;
+    }
+}
